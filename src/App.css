@@ -1,0 +1,33 @@
+.Container{
+  display: flex;
+}
+
+.Content{
+  width: 100%;
+}
+
+.Sidebar{
+  min-height: 800px;
+  min-width: 100px;
+}
+
+.Posts{
+  margin-top: 10px;
+}
+
+.card{
+
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
+.Formrow{
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.form-control{
+  min-width:100px;
+  margin-right: 20px;
+}
